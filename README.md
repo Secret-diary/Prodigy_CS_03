@@ -6,12 +6,13 @@ The Python script serves as a tool for assessing the strength of passwords enter
 
 ## Usage
 
-1. To get the code:
-                       git clone https://github.com/Secret-diary/Prodigy_CS_03.git
+1. To get the code
+   
+            git clone https://github.com/Secret-diary/Prodigy_CS_03.git
 
-2. Navigate to the directory
+3. Navigate to the directory
 
-3. To run the code
+4. To run the code
 
        python3 Prodigy_cs_03.py
 
