@@ -1,5 +1,8 @@
 ## Password Complexity Checker
 
+   Passwords are alphanumeric strings used for user authentication. They're vital for protecting sensitive information and resources from unauthorized access. Strong passwords are long, complex, and unique. Good password practices include regular updates, avoiding common words, and using multi-factor authentication when possible. However, passwords can be vulnerable to various security risks, so it's crucial to remain vigilant and adopt secure password management practices.
+
+
 ## Overview
 
 
@@ -14,9 +17,11 @@ The Python script serves as a tool for assessing the strength of passwords enter
 
 3. Navigate to the directory
 
-4. To run the code
+            cd Prodigy_cs_03
 
-       python3 Prodigy_cs_03.py
+5. To run the code
+
+       python3 Secure_Score.py
 
 
 
